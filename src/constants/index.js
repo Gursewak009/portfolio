@@ -111,7 +111,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Front-End Developer",
+    title: "Full-stack Developer",
     company_name: "Offical Solution Pvt Ltd",
     icon: meta,
     iconBg: "#E6DEDD",
