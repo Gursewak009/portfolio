@@ -111,52 +111,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Bug Bounty Hunter",
-    company_name: "Freelancer",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "Oct 2018 - Feb 2019",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
     title: "Front-End Developer",
     company_name: "Offical Solution Pvt Ltd",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full-Stack Developer",
-    company_name: "Skysailor Pvt Ltd",
-    icon: tesla,
-
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "SDE-Web Developer",
-
-    company_name: "Quacquarelli Symonds",
-    icon: shopify,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "(Aug 2024 - Present)",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
